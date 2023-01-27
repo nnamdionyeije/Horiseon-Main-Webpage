@@ -17,6 +17,6 @@ Right click any image on the page and inspect element to view the alt text.
 
 N/A
 
-## License
+## Link
 
-N/A
+https://nnamdionyeije.github.io/Horiseon-Main-Webpage/
